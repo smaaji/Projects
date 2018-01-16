@@ -7,3 +7,4 @@ Embedded systems
 ## Student
 
 ## Tutor
+Pedro Machado <pedro.baptistamachado@ntu.ac.uk>
